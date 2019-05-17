@@ -1,0 +1,23 @@
+{
+  "name": "short_links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjonesaacr/short_links.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjonesaacr/short_links/issues"
+  },
+  "homepage": "https://github.com/bjonesaacr/short_links#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.4"
+  }
+}
