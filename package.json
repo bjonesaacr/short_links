@@ -1,6 +1,7 @@
 {
   "name": "short_links",
   "version": "1.0.0",
+"baseURL": "https://ctmag.org/",
   "description": "",
   "main": "index.js",
   "scripts": {
