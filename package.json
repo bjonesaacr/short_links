@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efitzaacr/short_links.git"
+    "url": "git+https://github.com/bjonesaacr/short_links.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/efitzaacr/short_links/issues"
+    "url": "https://github.com/bjonesaacr/short_links/issues"
   },
-  "homepage": "https://github.com/efitzaacr/short_links#readme",
+  "homepage": "https://github.com/bjonesaacr/short_links#readme",
   "devDependencies": {
     "netlify-shortener": "^1.0.4"
   }
